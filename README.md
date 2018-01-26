@@ -1,4 +1,4 @@
-#Model Architecture Search Paper List
+# Model Architecture Search Paper List
 
 > Last updated 12/31/2017
 >
@@ -74,7 +74,7 @@ Brock, Andrew, et al. "SMASH: one-shot model architecture search through hyperne
 >
 > But I did not replicate their results using their released code.
 
-##Some other objectives
+## Some other objectives
 
 #### Searching for LSTM cell structure
 
