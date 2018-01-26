@@ -84,4 +84,4 @@ Jozefowicz, Rafal, Wojciech Zaremba, and Ilya Sutskever. "An empirical explorati
 
 Ramachandran, P., Zoph, B., & Le, Q. (2017). Searching for activation functions.
 
-> Discovered Swish (x * sigmoid(x)) activation function through Brute-Force search
+> Discovered Swish (x * sigmoid(x)) activation function through Brute-Force search. It is able to boost 1~2% classification accuracy on ImageNet, in my experiments.
