@@ -42,6 +42,16 @@ Liu C, Zoph B, Shlens J, et al. Progressive neural architecture search[J]. arXiv
 >
 > Same accuracy, 2 times faster than NASNet-A algorithm.
 
+**AmoebaNets (Google)**
+
+Regularized Evolution for Image Classifier Architecture Search
+
+ [[pdf]](https://arxiv.org/pdf/1802.01548.pdf)
+
+> Same search space with NASNet-A, a more detailed comparison of search methods. Claimed that evolution is better than RL.
+>
+> Introduced regularized evolution, which is a simple modification to traditional evolution algorithm.
+
 ## Other papers
 
 Real, Esteban, et al. "Large-scale evolution of image classifiers." arXiv preprint arXiv:1703.01041 (2017).
