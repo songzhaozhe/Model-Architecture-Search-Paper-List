@@ -2,7 +2,7 @@
 
 > Last updated 12/31/2017
 >
-> Zhaozhe Song (songzhaozhe@megvii.com)
+> Zhaozhe Song
 
 ## Two early papers in ICLR 2017
 
@@ -44,9 +44,7 @@ Liu C, Zoph B, Shlens J, et al. Progressive neural architecture search[J]. arXiv
 
 **AmoebaNets (Google)**
 
-Regularized Evolution for Image Classifier Architecture Search
-
- [[pdf]](https://arxiv.org/pdf/1802.01548.pdf)
+Regularized Evolution for Image Classifier Architecture Search [[pdf]](https://arxiv.org/pdf/1802.01548.pdf)
 
 > Same search space with NASNet-A, a more detailed comparison of search methods. Claimed that evolution is better than RL.
 >
