@@ -74,7 +74,7 @@ Zhong Z, Yan J, Liu C L. Practical Network Blocks Design with Q-Learning[J]. arX
 
 Baker, Bowen, et al. "Accelerating neural architecture search using performance prediction." CoRR, abs/1705.10823(2017).
 
-> Predict weights by early training stats and network architecture
+> Predict performance by early training stats and network architecture
 
 Brock, Andrew, et al. "SMASH: one-shot model architecture search through hypernetworks." arXiv preprint arXiv:1708.05344 (2017).
 
